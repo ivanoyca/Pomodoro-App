@@ -1,0 +1,24 @@
+.container-fluid {
+  padding: 7% 15%;
+  background-color: #343a40;
+}
+
+h1 {
+  color: white;
+}
+
+#circle {
+  background-color: #343a40;
+  width: 16rem;
+  height: 16rem;
+  border-radius: 100%;
+  box-shadow: 0 0 0 4px #b02a37;
+}
+
+#inner-circle {
+  background-color: #343a40;
+  width: 15rem;
+  height: 15rem;
+  border-radius: 100%;
+  box-shadow: 0 0 0 4px white;
+}
