@@ -22,3 +22,10 @@ h1 {
   border-radius: 100%;
   box-shadow: 0 0 0 4px white;
 }
+
+#timer {
+  width: 15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
